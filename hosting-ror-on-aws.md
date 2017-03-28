@@ -209,7 +209,7 @@ Do you want to set up SSH for your instances?
 
 At this point your project is now associated with the Elastic Beanstalk. You will have to include some folders and files to instruct your Amazon EC2 instance on how you want your environment set up.  Now is a good moment to briefly demonstrate self-congratulations. ![](http://cultofthepartyparrot.com/parrots/parrot.gif)
 
-##Prepping your application for launch
+## Prepping your application for launch
 
 1.  In your root, create a folder named `.ebextensions`.  This folder will contain `config` files that will execute every time your application is deployed and initialized on your EC2 instance.
 
