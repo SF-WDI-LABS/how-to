@@ -1,13 +1,20 @@
 # Keyboard Shortcuts
 
+<img src="http://i.stack.imgur.com/bi2gw.jpg" width="800px">
 
 ### Basic Mac Shortcuts
+
+
+
 #### These key combos work in most Mac applications
 
 - **Command  Space** → this will bring up your Spotlight.
 Use this to launch your Terminal, PostgreSQL, or any other application installed on your Mac
 
 - Hold down **Command** and tap **Tab** to switch between open applications
+
+<img src="https://cdn-images-1.medium.com/max/800/1*S012lqgtqZpI75W24GOL0w.jpeg" width="300px"/>
+
 - Hold down **Command** and tap **~** to switch between different windows of the same application. This can be helpful when you have many Atom or Chrome windows open.
 
 
